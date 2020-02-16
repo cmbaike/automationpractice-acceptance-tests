@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.auto.service:auto-service-annotations:1.0-rc6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.auto.service/auto-service-annotations/jars/auto-service-annotations-1.0-rc6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
