@@ -1,52 +1,39 @@
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+.*
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+!.gitignore
 
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
-
-# IntelliJ #
-############
-*.iml
-*.ipr
-*.iws
+.cache
+/.classpath
+db
+dist
+.DS_Store
+**/*.DS_Store
+eclipse
+*.eml
+.history
 .idea
-
-# Maven #
-#########
-**/target/*
+/.idea_modules
+*.iml
+lib
+lib_managed
+log
+logs
+modules
+/out
+precompiled
+/.project
+project/project
+project/target
+/RUNNING_PID
+server.pid
+/.settings
+.target
 target
-
-# Other IDE's#
-##############
-\.classpath
-\.project
-\.settings
-\.dorsync
-/nbactions.xml
-
-# Binary Downloads #
-####################
-**/selenium_standalone_zips/
-**/selenium_standalone_binaries/
+test-result
+tmp
+.idea_modules
+bin
+Screenshot*.png
+BrowserStackLocal
+BrowserStackLocal-linux-x64.zip
+AccessibilityLog.txt
