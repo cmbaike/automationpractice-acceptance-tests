@@ -14,6 +14,7 @@ class HomePage(driver: WebDriver) extends CommonUIActions(driver) with Page {
   PageFactory.initElements(driver, this)
 
   def clickOnSignIn: HomePage = {
+    waitForElementVisibility(signIn)
     signIn.click()
     this
   }

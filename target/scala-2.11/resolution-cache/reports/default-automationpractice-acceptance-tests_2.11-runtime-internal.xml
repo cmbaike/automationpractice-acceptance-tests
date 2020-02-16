@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20200216200139"/>
+		date="20200216215905"/>
 	<dependencies>
 		<module organisation="com.github.javafaker" name="javafaker">
 			<revision name="1.0.2" status="release" pubdate="20200210194232" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/DiUS/java-faker" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="78">
