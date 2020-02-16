@@ -1,4 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/christophermbaike/IdeaProjects/automationpractice-acceptance-tests/src/test/resources/wdm-test.properties,/Users/christophermbaike/IdeaProjects/automationpractice-acceptance-tests/target/scala-2.11/test-classes/wdm-test.properties)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/christophermbaike/IdeaProjects/automationpractice-acceptance-tests/src/test/resources/features,/Users/christophermbaike/IdeaProjects/automationpractice-acceptance-tests/target/scala-2.11/test-classes/features)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/christophermbaike/IdeaProjects/automationpractice-acceptance-tests/src/test/resources/features/search_item.feature,/Users/christophermbaike/IdeaProjects/automationpractice-acceptance-tests/target/scala-2.11/test-classes/features/search_item.feature)[0m
