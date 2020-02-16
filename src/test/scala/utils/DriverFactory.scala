@@ -20,7 +20,7 @@ object DriverFactory {
 
     implicit val driver: WebDriver = browser match {
       case CHROME =>
-        WebDriverManager.chromedriver().setup()
+        WebDriverManager.chromedriver.version("79.0.3945.36").setup()
         new ChromeDriver()
 
       case FIREFOX =>
