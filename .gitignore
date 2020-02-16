@@ -1,39 +1,32 @@
-.*
+# sbt
+# (may want to keep parts of 'project')
+bin/
+project/
+target/
+build/
 
-!.gitignore
+# eclipse
+build
+.classpath
+.project
+.settings
+.worksheet
 
-.cache
-/.classpath
-db
-dist
-.DS_Store
-**/*.DS_Store
-eclipse
-*.eml
-.history
-.idea
-/.idea_modules
+# intellij idea
+*.log
 *.iml
-lib
-lib_managed
-log
-logs
-modules
-/out
-precompiled
-/.project
-project/project
-project/target
-/RUNNING_PID
-server.pid
-/.settings
-.target
-target
-test-result
-tmp
-.idea_modules
-bin
-Screenshot*.png
-BrowserStackLocal
-BrowserStackLocal-linux-x64.zip
-AccessibilityLog.txt
+*.ipr
+*.iws
+.idea
+
+# mac
+.DS_Store
+
+# other?
+.history
+.scala_dependencies
+.cache
+.cache-main
+
+#general
+*.class
