@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "info.cukes" % "cucumber-scala_2.11" % "1.2.4",
   "info.cukes" % "cucumber-junit" % "1.2.4",
   "info.cukes" % "cucumber-picocontainer" % "1.2.4",
-  "junit" % "junit" % "4.11" % "test",
+  "junit" % "junit" % "4.13.1" % "test",
   "org.scalautils" % "scalautils_2.11" % "2.1.7",
   "org.apache.commons" % "commons-lang3" % "3.8.1",
   "io.github.bonigarcia" % "webdrivermanager" % "3.8.1",
